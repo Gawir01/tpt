@@ -106,7 +106,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="FREE-LOKAL",Usee
-
+http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FREE-LOKAL",Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
