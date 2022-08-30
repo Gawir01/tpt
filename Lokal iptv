@@ -105,8 +105,8 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 group-title="FREE-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="FREE-LOKAL",Usee SPORT
-http://iptvid.my.id/hmm/useetl1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FREE-LOKAL",Usee
+
 #EXTINF:0 tvg-id="ext" group-title="FREE-LOKAL",Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
